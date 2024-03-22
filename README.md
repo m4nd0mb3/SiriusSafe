@@ -1,5 +1,9 @@
 # SiriusSafe
 
+<p align="center">
+  <img src="logo.png">
+</p>
+
 ## Descrição
 
 SiriusSafe é um serviço avançado de registro de backups de bancos de dados projetado para fornecer uma solução confiável e automatizada para o gerenciamento seguro de dados. Desenvolvido com foco na eficiência e facilidade de uso, o SiriusSafe combina o poder do framework FastAPI com a flexibilidade do Celery para oferecer uma solução robusta para agendamento de backups.
@@ -70,5 +74,5 @@ Contribuições são bem-vindas! Se você encontrar bugs ou tiver sugestões de 
 
 ## Licença
 
-Este projeto é licenciado sob a licença APACHE-2. Consulte o arquivo LICENSE para obter mais detalhes.
+Este projeto é licenciado sob a licença Apache 2.0. Consulte o arquivo LICENSE para obter mais detalhes.
 
